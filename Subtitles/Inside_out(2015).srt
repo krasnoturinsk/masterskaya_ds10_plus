@@ -1,6 +1,6 @@
 1
 00:00:06,000 --> 00:00:12,074
-Advertise your product or brand here<br/>contact www.OpenSubtitles.org today
+
 
 2
 00:00:51,800 --> 00:00:53,290
@@ -7384,4 +7384,3 @@ We just need to go to our happy place.
 
 1846
 01:28:13,305 --> 01:29:13,726
-Support us and become VIP member<br/>to remove all ads from www.OpenSubtitles.org

@@ -4,7 +4,7 @@
 
 2
 00:00:07,000 --> 00:00:13,074
-Advertise your product or brand here<br/>contact www.OpenSubtitles.org today
+
 
 3
 00:00:34,381 --> 00:00:37,350
@@ -8788,4 +8788,3 @@ BLOAT: Now what?
 
 2198
 01:40:45,305 --> 01:41:45,579
-OpenSubtitles recommends using Nord VPN<br/>from 3.49 USD/month ----> osdb.link/vpn

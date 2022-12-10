@@ -1,11 +1,10 @@
 1
 00:00:06,000 --> 00:00:12,074
-Advertise your product or brand here
-contact www.OpenSubtitles.org today
+
 
 2
 00:00:43,840 --> 00:00:47,840
-www.titlovi.com
+
 
 3
 00:00:50,840 --> 00:00:52,888
@@ -7990,13 +7989,11 @@ Send.
 
 1801
 02:05:46,000 --> 02:05:48,002
-[English - US - SDH]
+
 
 1802
 02:05:51,002 --> 02:05:55,002
-Preuzeto sa www.titlovi.com
+
 
 1803
 02:05:56,305 --> 02:06:02,937
-Support us and become VIP member 
-to remove all ads from www.OpenSubtitles.org
